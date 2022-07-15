@@ -1,0 +1,5 @@
+faiss-cpu==1.7.*
+open3d==0.15.*
+dominate==2.6.*
+visdom==0.1.8.*
+h5py==3.7.*
